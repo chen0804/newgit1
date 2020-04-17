@@ -1,0 +1,1 @@
+data = [s1_2cen-s1_jixian;s2_2cen-s2_jixian;s3_2cen-s3_jixian;s4_2cen-s4_jixian;s5_2cen-s5_jixian];
