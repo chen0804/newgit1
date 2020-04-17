@@ -1,0 +1,7 @@
+scatter  save  right
+
+neutral mountain  trap 
+
+whisper  shield  travel
+
+devote  peasant  vast  
